@@ -107,4 +107,3 @@ MIT OR Apache-2.0
 - [zkVerify / Horizen Labs](https://github.com/zkVerify) for the `ultraplonk_verifier` crate
 - [Nervos](https://www.nervos.org/) for CKB-VM and `ckb-std`
 - [Aztec / Noir](https://noir-lang.org/) for the proving system
-# ckb-ultraplonk-verifier
