@@ -1,0 +1,15 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "crates/verifier",
+    "tests",
+]
+
+[profile.release]
+overflow-checks = true
+strip = true
+codegen-units = 1
+debug = false
+opt-level = "z"
+lto = true
